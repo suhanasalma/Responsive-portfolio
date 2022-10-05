@@ -2,7 +2,7 @@
 
 var typed = new Typed(".typing", {
   strings: ["","Web Developer.", "Passionate Programmer.", "Software Enginner"],
-  typeSpeed:100,
+  typeSpeed:60,
   BackSpeed:60,
   loop:true
 });
